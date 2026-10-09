@@ -1,0 +1,2 @@
+# Minoria
+Server minecraft Bedrock
